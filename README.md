@@ -32,7 +32,7 @@ This will open the Cypress testing window, where you can click to run an individ
 
 ### Question One
 
-[Source: Wikiversity](https://en.wikiversity.org/wiki/Web_Design/HTML_Challenges)
+[Source: Wikiversity]()
 
 Create a file named `sundial.html`.
 
