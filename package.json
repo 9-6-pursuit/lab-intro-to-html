@@ -13,6 +13,9 @@
   "devDependencies": {
     "cypress": "9.7.0",
     "cypress-watch-and-reload": "^1.10.3",
-    "live-server": "^1.2.2"
+    "live-server": "^1.1.0"
+  },
+  "dependencies": {
+    "caniuse-lite": "^1.0.30001458"
   }
 }
